@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-v^986l9(gd65_=w@pljukujxydthympbutejn%o%p9omt2^^=u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://theta-solutions.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
