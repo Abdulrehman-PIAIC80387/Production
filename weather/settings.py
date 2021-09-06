@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 Django settings for weather project.
 
@@ -135,7 +135,7 @@ os.path.join(BASE_DIR, 'static')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-=======
+
 """
 Django settings for weather project.
 
@@ -272,4 +272,4 @@ os.path.join(BASE_DIR, 'static')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
->>>>>>> 3a82faff3efbf1a43a90d7ba49b6bbf19aac31aa
+
